@@ -1,6 +1,6 @@
 # dariokrie
 Heyyy, I'm ***dariokrie***, an aspiring application developer. <br>
-Currently doing an apprenticeship as Application Developer at Base-Net
+Currently doing an apprenticeship as Application Developer.
 
 ### [Discord](https://dsc.gg/edulu)
 
