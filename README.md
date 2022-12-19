@@ -10,6 +10,7 @@ Currently doing an apprenticeship as Application Developer.
 ## 🚀 Professional Skills and Interests
 ![LUA](https://img.shields.io/badge/-LUA-blueviolet)
 ![C#](https://img.shields.io/badge/-CSharp-green)
+![ATLASSIAN](https://img.shields.io/badge/-ATLASSIAN-blue)
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-orange)
