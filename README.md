@@ -1,4 +1,5 @@
 # dariokrie
+![](https://komarev.com/ghpvc/?username=dariokrie&color=green) <br>
 Heyyy, I'm ***dariokrie***, an aspiring application developer. <br>
 Currently doing an apprenticeship as Application Developer.
 
