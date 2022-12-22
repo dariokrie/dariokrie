@@ -9,6 +9,7 @@ Currently doing an apprenticeship as Application Developer.
 ![APPLE](https://img.shields.io/badge/-Apple_Inc._-black)
 
 ## 🚀 Professional Skills and Interests
+![SWIFT](https://img.shields.io/badge/-SWIFT-red)
 ![LUA](https://img.shields.io/badge/-LUA-blueviolet)
 ![C#](https://img.shields.io/badge/-CSharp-green)
 ![ATLASSIAN](https://img.shields.io/badge/-ATLASSIAN-blue)
@@ -17,6 +18,7 @@ Currently doing an apprenticeship as Application Developer.
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-orange)
 ![VSCODE](https://img.shields.io/badge/-Visual_Studio_Code-blue)
 ![VS](https://img.shields.io/badge/-Visual_Studio-blueviolet)
+![XCODE](https://img.shields.io/badge/-XCode-grey)
 ![DEVOPS](https://img.shields.io/badge/-Azure_DevOps-blue)
 ![GITHUB](https://img.shields.io/badge/-Microsoft_GitHub-blueviolet)
 
