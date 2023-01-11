@@ -16,11 +16,11 @@ Currently doing an apprenticeship as Application Developer.
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-orange)
-![VSCODE](https://img.shields.io/badge/-Visual_Studio_Code-blue)
-![VS](https://img.shields.io/badge/-Visual_Studio-blueviolet)
-![XCODE](https://img.shields.io/badge/-XCode-grey)
-![DEVOPS](https://img.shields.io/badge/-Azure_DevOps-blue)
-![GITHUB](https://img.shields.io/badge/-Microsoft_GitHub-blueviolet)
+![VSCODE](https://img.shields.io/badge/-VISUAL_STUDIO_CODE-blue)
+![VS](https://img.shields.io/badge/-VISUAL_STUDIO-blueviolet)
+![XCODE](https://img.shields.io/badge/-XCODE-grey)
+![DEVOPS](https://img.shields.io/badge/-AZURE_DEVOPS-blue)
+![GITHUB](https://img.shields.io/badge/-MICROSOFT_GITHUB-blueviolet)
 
 ## 🔥 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=dariokrie)](https://git.io/streak-stats)
