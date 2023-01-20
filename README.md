@@ -4,6 +4,7 @@ Heyyy, I'm ***jpeg***, an aspiring application developer. <br>
 Currently doing an apprenticeship as Application Developer.
 
 ### [Discord](https://dsc.gg/edulu)
+### [cfx.re](https://forum.cfx.re/u/jpeg1/)
 
 ## 🚀 Personal Inspiration
 ![APPLE](https://img.shields.io/badge/-Apple_Inc._-black)
