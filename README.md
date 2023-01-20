@@ -1,6 +1,6 @@
 # ʲᵖᵉᵍ
-![](https://komarev.com/ghpvc/?username=dariokrie&color=green) <br>
-Heyyy, I'm ***ʲᵖᵉᵍ***, an aspiring application developer. <br>
+![](https://komarev.com/ghpvc/?username=jpeg14&color=green) <br>
+Heyyy, I'm ***jpeg***, an aspiring application developer. <br>
 Currently doing an apprenticeship as Application Developer.
 
 ### [Discord](https://dsc.gg/edulu)
