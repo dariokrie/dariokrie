@@ -1,6 +1,6 @@
-# dariokrie
+# ʲᵖᵉᵍ
 ![](https://komarev.com/ghpvc/?username=dariokrie&color=green) <br>
-Heyyy, I'm ***dariokrie***, an aspiring application developer. <br>
+Heyyy, I'm ***ʲᵖᵉᵍ***, an aspiring application developer. <br>
 Currently doing an apprenticeship as Application Developer.
 
 ### [Discord](https://dsc.gg/edulu)
@@ -23,7 +23,7 @@ Currently doing an apprenticeship as Application Developer.
 ![GITHUB](https://img.shields.io/badge/-MICROSOFT_GITHUB-blueviolet)
 
 ## 🔥 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=dariokrie)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariokrie&layout=compact&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jpeg14)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpeg14&layout=compact&theme=dark)
 ## <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord Icon" width="30"/>  Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/729433614881652848)](https://discord.com/users/729433614881652848)
