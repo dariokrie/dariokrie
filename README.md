@@ -8,6 +8,7 @@ Currently doing an apprenticeship as Application Developer.
 
 ## 🚀 Personal Inspiration
 ![APPLE](https://img.shields.io/badge/-Apple_Inc._-black)
+![APPLE](https://img.shields.io/badge/-hu.ma.ne._-black)
 
 ## 🚀 Professional Skills and Interests
 ![SWIFT](https://img.shields.io/badge/-SWIFT-red)
