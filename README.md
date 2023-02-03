@@ -25,7 +25,12 @@ Currently doing an apprenticeship as Application Developer.
 ![GITHUB](https://img.shields.io/badge/-MICROSOFT_GITHUB-blueviolet)
 
 ## 🔥 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=jpeg14)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpeg14&layout=compact&theme=dark)
+<p align="center">
+<a href="https://github.com/jpeg14">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jpeg14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpeg14&layout=compact&exclude_lang=java+r&theme=tokyonight" />
+</a>
+</p>
+
 ## <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord Icon" width="30"/>  Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/729433614881652848)](https://discord.com/users/729433614881652848)
