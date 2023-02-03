@@ -27,8 +27,8 @@ Currently doing an apprenticeship as Application Developer.
 ## 🔥 Stats
 <p align="center">
 <a href="https://github.com/jpeg14">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jpeg14&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpeg14&layout=compact&exclude_lang=java+r&theme=gruvbox_light" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jpeg14&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpeg14&layout=compact&exclude_lang=java+r&theme=flag-india" />
 </a>
 </p>
 
