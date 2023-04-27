@@ -17,6 +17,8 @@ Currently doing an apprenticeship as Application Developer.
 ![ATLASSIAN](https://img.shields.io/badge/-ATLASSIAN-blue)
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
+![HTML](https://img.shields.io/badge/-ANGULAR-red)
+![HTML](https://img.shields.io/badge/-TYPESCRIPT-blue)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-orange)
 ![VSCODE](https://img.shields.io/badge/-VISUAL_STUDIO_CODE-blue)
 ![VS](https://img.shields.io/badge/-VISUAL_STUDIO-blueviolet)
