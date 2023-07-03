@@ -1,9 +1,9 @@
 # ʲᵖᵉᵍ
 ![](https://komarev.com/ghpvc/?username=jpeg14&color=green) <br>
-Heyyy, I'm ***jpeg***, an aspiring application developer. <br>
+Hey, I'm ***nightline***, an application developer. <br>
 Currently doing an apprenticeship as Application Developer.
 
-### [discord](https://dsc.gg/edulu)
+### [discord](https://discord.me/evergreen)
 ### [cfx.re](https://forum.cfx.re/u/jpeg1/)
 
 ## 🚀 Personal Inspiration
