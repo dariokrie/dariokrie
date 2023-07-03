@@ -1,4 +1,4 @@
-# ʲᵖᵉᵍ
+# nightline
 ![](https://komarev.com/ghpvc/?username=jpeg14&color=green) <br>
 Hey, I'm ***nightline***, an application developer. <br>
 Currently doing an apprenticeship as Application Developer.
@@ -28,9 +28,9 @@ Currently doing an apprenticeship as Application Developer.
 
 ## 🔥 Stats
 <p align="center">
-<a href="https://github.com/jpeg14">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jpeg14&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpeg14&layout=compact&exclude_lang=java+r&theme=flag-india" />
+<a href="https://github.com/nightlinecode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nightlinecode&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nightlinecode&layout=compact&exclude_lang=java+r&theme=flag-india" />
 </a>
 </p>
 
