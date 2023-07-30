@@ -1,4 +1,4 @@
-# nightline
+# ezsprojects
 Hey, I'm ***ezsprojects***, an application developer. <br>
 Currently doing an apprenticeship as Application Developer.
 
