@@ -1,5 +1,5 @@
 # nightline
-Hey, I'm ***nightline***, an application developer. <br>
+Hey, I'm ***ezsprojects***, an application developer. <br>
 Currently doing an apprenticeship as Application Developer.
 
 ### [discord](https://discord.me/evergreen)
@@ -27,9 +27,9 @@ Currently doing an apprenticeship as Application Developer.
 
 ## 🔥 Stats
 <p align="center">
-<a href="https://github.com/nightlinecode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nightlinecode&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nightlinecode&layout=compact&exclude_lang=java+r&theme=flag-india" />
+<a href="https://github.com/ezsprojects">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ezsprojects&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ezsprojects&layout=compact&exclude_lang=java+r&theme=flag-india" />
 </a>
 </p>
 
