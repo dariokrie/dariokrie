@@ -24,6 +24,7 @@ Currently doing an apprenticeship as Application Developer.
 ![XCODE](https://img.shields.io/badge/-XCODE-grey)
 ![DEVOPS](https://img.shields.io/badge/-AZURE_DEVOPS-blue)
 ![GITHUB](https://img.shields.io/badge/-MICROSOFT_GITHUB-blueviolet)
+![AZURE](https://img.shields.io/badge/-AZURE-blue)
 
 ## 🔥 Stats
 <p align="center">
