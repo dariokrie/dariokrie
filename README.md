@@ -2,7 +2,7 @@
 Hey, I'm ***ezsprojects***, an application developer. <br>
 Currently doing an apprenticeship as Application Developer.
 
-### [discord](https://discord.me/evergreen)
+### [discord](http://discord.gg/hyB8yxv5Gq)
 ### [cfx.re](https://forum.cfx.re/u/jpeg1/)
 
 ## 🚀 Personal Inspiration
