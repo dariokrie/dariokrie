@@ -2,12 +2,9 @@
 Hey, I'm ***ezsprojects***, an application developer. <br>
 Currently doing an apprenticeship as Application Developer.
 
-### [discord](http://discord.gg/hyB8yxv5Gq)
-### [cfx.re](https://forum.cfx.re/u/jpeg1/)
-
 ## 🚀 Personal Inspiration
 ![APPLE](https://img.shields.io/badge/-Apple_Inc._-black)
-![APPLE](https://img.shields.io/badge/-humane_-black)
+![HUMANE](https://img.shields.io/badge/-humane_-black)
 
 ## 🚀 Professional Skills and Interests
 ![SWIFT](https://img.shields.io/badge/-SWIFT-red)
@@ -33,6 +30,3 @@ Currently doing an apprenticeship as Application Developer.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ezsprojects&layout=compact&exclude_lang=java+r&theme=flag-india" />
 </a>
 </p>
-
-## <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord Icon" width="30"/>  Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/729433614881652848)](https://discord.com/users/729433614881652848)
