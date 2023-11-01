@@ -2,9 +2,8 @@
 Hey, I'm ***dariokrie***, an application developer. <br>
 Currently doing an apprenticeship as Application Developer.
 
-## 🚀 Personal Inspiration
-![APPLE](https://img.shields.io/badge/-Apple_Inc._-black)
-![HUMANE](https://img.shields.io/badge/-humane_-black)
+## Portfolio
+https://dariokrie.github.io/portfolio/
 
 ## 🚀 Professional Skills and Interests
 ![SWIFT](https://img.shields.io/badge/-SWIFT-red)
