@@ -2,25 +2,8 @@
 Hey, I'm ***dariokrie***, an application developer. <br>
 Currently doing an apprenticeship as Application Developer.
 
-## Portfolio
-https://dariokrie.github.io/portfolio/
-
-## 🚀 Professional Skills and Interests
-![SWIFT](https://img.shields.io/badge/-SWIFT-red)
-![LUA](https://img.shields.io/badge/-LUA-blueviolet)
-![C#](https://img.shields.io/badge/-CSharp-green)
-![ATLASSIAN](https://img.shields.io/badge/-ATLASSIAN-blue)
-![HTML](https://img.shields.io/badge/-HTML-red)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![HTML](https://img.shields.io/badge/-ANGULAR-red)
-![HTML](https://img.shields.io/badge/-TYPESCRIPT-blue)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-orange)
-![VSCODE](https://img.shields.io/badge/-VISUAL_STUDIO_CODE-blue)
-![VS](https://img.shields.io/badge/-VISUAL_STUDIO-blueviolet)
-![XCODE](https://img.shields.io/badge/-XCODE-grey)
-![DEVOPS](https://img.shields.io/badge/-AZURE_DEVOPS-blue)
-![GITHUB](https://img.shields.io/badge/-MICROSOFT_GITHUB-blueviolet)
-![AZURE](https://img.shields.io/badge/-AZURE-blue)
+## Personal Website
+coming soon ... 
 
 ## 🔥 Stats
 <p align="center">
