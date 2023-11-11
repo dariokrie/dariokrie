@@ -3,7 +3,7 @@ Hey, I'm ***dariokrie***, an application developer. <br>
 Currently doing an apprenticeship as Application Developer.
 
 ## Personal Website
-coming soon ... 
+https://dariokrie.github.io/dev/
 
 ## 🔥 Stats
 <p align="center">
