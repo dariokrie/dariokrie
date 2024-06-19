@@ -1,14 +1,28 @@
-# dariokrie
-Hey, I'm ***dariokrie***, an application developer. <br>
-Currently doing an apprenticeship as Application Developer.
+## Hello!
+I'm Dario Krieger! I primarially work with all things related with .NET and Angular / Vue 3.
 
-## Personal Website
 https://www.dariokrieger.ch/
 
-## 🔥 Stats
-<p align="center">
 <a href="https://github.com/dariokrie">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dariokrie&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dariokrie&layout=compact&exclude_lang=java+r&theme=flag-india" />
 </a>
-</p>
+
+</a>
+
+## Tools I work with
+
+### Languages
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Platform
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
