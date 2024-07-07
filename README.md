@@ -3,13 +3,6 @@ I'm Dario Krieger! I primarially work with all things related with .NET and Angu
 
 https://www.dariokrieger.ch/
 
-<a href="https://github.com/dariokrie">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dariokrie&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dariokrie&layout=compact&exclude_lang=java+r&theme=flag-india" />
-</a>
-
-</a>
-
 ## Tools I work with
 
 ### Languages
