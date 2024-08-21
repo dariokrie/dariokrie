@@ -1,6 +1,8 @@
 ## Hello!
 I'm Dario Krieger! I primarially work with all things related with .NET and Angular / Vue 3.
 
+I'm a part-time developer, a part-time artist, a part-time DJ and sometimes even a part-time politician 🤔
+
 https://www.dariokrieger.ch/
 
 ## Tools I work with
